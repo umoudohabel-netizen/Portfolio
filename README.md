@@ -75,12 +75,6 @@ A text analytics project using Yelp restaurant reviews to classify sentiment and
 
 ---
 
-### [Additional Project](PROJECT-LINK)
-
-A short description of another project, explaining the problem addressed, the data used and the main outcome.
-
-**Tools and methods:** Add the relevant technologies here.
-
 ---
 
 ## 📚 Currently Learning
