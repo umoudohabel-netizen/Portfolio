@@ -67,7 +67,7 @@ An analytical and machine-learning project focused on exploring dengue fever dat
 
 ---
 
-### [Restaurant Review Sentiment Analysis](PROJECT-LINK)
+### [Restaurant Review Sentiment Analysis](https://github.com/umoudohabel-netizen/dengue-fever-data-analysis)
 
 A text analytics project using Yelp restaurant reviews to classify sentiment and investigate how customer feedback can be converted into useful insights.
 
