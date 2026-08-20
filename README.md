@@ -11,7 +11,7 @@ My interests include exploratory data analysis, machine learning, text analytics
 
 - 🎓 MSc Data Analytics with Distinction — University of Portsmouth
 - 📊 Interested in data analysis, business intelligence and applied machine learning
-- 📍 Based in Southampton, United Kingdom
+- 📍 Based in Portsmouth, United Kingdom
 - 🌱 Continuously developing my skills in Python, SQL and data visualisation
 - 💬 Open to discussing data analytics, projects and professional opportunities
 
