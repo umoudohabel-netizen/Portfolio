@@ -10,7 +10,6 @@ I am a Data Analyst with an MSc in Data Analytics with Distinction from the Univ
 My interests include exploratory data analysis, machine learning, text analytics, data visualisation and practical problem-solving. I am currently building a portfolio of projects that demonstrate my ability to collect, clean, analyse and communicate data effectively.
 
 - 🎓 MSc Data Analytics with Distinction — University of Portsmouth
-- 💼 Data analysis experience at Vespersian Security
 - 📊 Interested in data analysis, business intelligence and applied machine learning
 - 📍 Based in Southampton, United Kingdom
 - 🌱 Continuously developing my skills in Python, SQL and data visualisation
